@@ -1,2 +1,3 @@
 # hello_world
-first repository 
+first repository
+I love :cofee: :pizza:, and a :dancer:.
